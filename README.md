@@ -1,20 +1,97 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🍽️ DineGenie
 
-# Run and deploy your AI Studio app
+## Overview
+DineGenie is an AI-powered food delivery and nutrition assistant that combines restaurant discovery, personalized meal recommendations, and nutrition tracking in one platform.
 
-This contains everything you need to run your app locally.
+The application helps users explore restaurants, receive AI-based recommendations, monitor nutrition, and visualize their monthly calorie intake through an interactive dashboard.
 
-View your app in AI Studio: https://ai.studio/apps/8b9e7ec1-6145-4c62-9980-07cfd361ea8c
+---
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+### Core Features
+- 🍴 Food Delivery Application
+- 🧭 Seamless Navigation
+- 🤖 AI Recommendation Engine
+- 🥗 Nutrition Assistant
 
+### Additional Features
+- 📊 Monthly Nutrition Dashboard
+- 📈 30-Day Calorie Analytics
+- 🍽️ Macronutrient Tracking
+- 💧 Daily Hydration Monitoring
+- 📄 Excel Report Export
+- 😊 Mood & Cravings
+- 📅 Meal Planner
+- ❤️ Favorites
+- 🎁 Offers
+- 🤖 AI Assistant (Luna)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- CSS
+- Google Gemini AI
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/khushi08shekhawat/DINEGENIE.git
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npm run dev
+```
+
+---
+
+## Project Structure
+
+```
+src/
+components/
+assets/
+App.tsx
+Sidebar.tsx
+MonthlyDashboard.tsx
+AIRecommendations.tsx
+AINutritionDashboard.tsx
+Orders.tsx
+Restaurants.tsx
+data.ts
+types.ts
+```
+
+---
+
+## Future Improvements
+
+- Voice Ordering
+- Image-to-Food Recognition
+- Weekly Diet Planner
+- Budget Planner
+- Smart Offers
+
+---
+
+## Author
+
+**Khushi Shekhawat**
+B.Tech Computer Science Engineering
+Amity University Rajasthan
