@@ -6,6 +6,11 @@ DineGenie is an AI-powered food delivery and nutrition assistant that combines r
 The application helps users explore restaurants, receive AI-based recommendations, monitor nutrition, and visualize their monthly calorie intake through an interactive dashboard.
 
 ---
+## 🚀 Live Demo
+
+**Google AI Studio App**
+
+https://aistudio.google.com/apps/8b9e7ec1-6145-4c62-9980-07cfd361ea8c
 
 ## Features
 
