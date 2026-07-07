@@ -1,0 +1,6 @@
+{
+  "name": "DineGenie",
+  "description": "An AI-powered food delivery web application that helps you discover the perfect meal based on your mood, cravings, and lifestyle.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

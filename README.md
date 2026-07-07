@@ -1,35 +1,20 @@
-# DINEGENIE
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/8b9e7ec1-6145-4c62-9980-07cfd361ea8c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
 
 
-## Overview
-DineGenie is an AI-powered food delivery and nutrition assistant that provides personalized meal recommendations, restaurant discovery, nutrition tracking, and monthly calorie insights.
-
-## Features
-- AI Food Recommendations
-- Restaurant Search
-- Nutrition Assistant
-- Mood Based Suggestions
-- Meal Planner
-- Monthly Nutrition Dashboard
-- Monthly Calorie Analytics
-- Excel Report Export
-- Wallet and Offers
-- Orders Management
-
-## Technologies Used
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-- Gemini AI
-
-## Installation
-
-npm install
-
-npm run dev
-
-## Future Improvements
-- Live calorie tracking
-- Health API integration
-- Better analytics
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
